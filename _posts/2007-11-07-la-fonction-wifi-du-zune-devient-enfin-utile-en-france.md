@@ -1,0 +1,8 @@
+---
+layout: post
+title: La fonction Wifi du Zune devient (enfin) utile en France
+slug: la-fonction-wifi-du-zune-devient-enfin-utile-en-france
+date: 2007-11-07 20:21:00Z
+---
+
+<blockquote>   <p>Ce post a été importé depuis mon ancien blog, il se peut donc qu’il y ait des erreurs d’affichage.</p> </blockquote>  <p>J’ai eu la chance il y a quelques mois de recevoir un zune, le lecteur MP3 de Microsoft. C’est un beau bijou technologique, et même si la future version s’annonce mieux, j’avoue que j’ai du mal à ne pas mettre mon iPod de côté face à lui !</p>  <p><img style="display: block; float: none; margin-left: auto; margin-right: auto" alt="" src="http://start1g.ovh.net/~maneu/wp-content/uploads/2007/11/110607-0956-lafonctionw12.png" /></p>  <p>L’une des fonctionnalités très intéressantes (et uniques) est la présence du Wifi dans cet appareil. On peut ainsi se partager la musique entre zune sans câbles et avec peu de configuration. Mais le hic, c’est que c’est un produit uniquement vendu aux états-unis. Résultat des courses, le plus proche possesseur est à Bordeaux ! Et Toulouse – Bordeaux en Wifi…</p>  <p><img style="display: block; float: none; margin-left: auto; margin-right: auto" alt="" src="http://start1g.ovh.net/~maneu/wp-content/uploads/2007/11/110607-0956-lafonctionw22.png" /></p>  <p>Heureusement, le fimmware (le logiciel interne) du Zune est mis à jour assez fréquemment, et dans la prochaine mise à jour, il est prévu de pouvoir utiliser les fonctionnalités Wifi pour synchorniser sa bibliothèque « on air », et on peut également imaginer le chargement des podcasts de la même façon. Là où Apple sort une nouvelle version de son iPod, Microsoft sort des mises à jour (et toc :p)</p>
